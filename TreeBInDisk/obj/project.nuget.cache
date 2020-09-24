@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "SKNifEuDquMv3k6Yd2H+GEa3FMZsg7dRlsYpjK7Fd3kXVoQNJsQENd2vZe+Hg1tr1CaQqHTOVkAJxNU+34rPgw==",
+  "dgSpecHash": "0LBZKIO8z4Gj04utBbyoKyW+3yk+hZZtaIOUcGjggA/9aNt4PNwWwfPqkd9qWPYASyZM0tiAEbvPLa4QHp1hqg==",
   "success": true,
-  "projectFilePath": "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\TreeBInDisk\\TreeBInDisk.csproj",
+  "projectFilePath": "/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/TreeBInDisk.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "/Users/mario/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/mario/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
