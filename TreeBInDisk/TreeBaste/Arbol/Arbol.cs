@@ -89,7 +89,7 @@ namespace TreeBaste.Arbol
                 if (object.Equals(nodo_actual.Values[Nodo<T>.m - 2], default(T))) //Hay espacio en el nodo hoja
                 {
                     nodo_actual.Insert_Aux(value);
-                    var sortedList = GenericComparation<T>.SortedList(nodo_actual.Values, Soda.CompareByName);
+                    var sortedList = GenericComparation<T>.SortedList(nodo_actual.Values, Peli.CompareByName);
                     for (int x = 0; x < sortedList.Length; x++)
                     {
                         nodo_actual.Values[x] = sortedList[x]; //Inserto los valores ordenados por burbuja en el vector
@@ -104,7 +104,7 @@ namespace TreeBaste.Arbol
                         aux[x] = nodo_actual.Values[x];
                     }
                     aux[aux.Length - 1] = value;
-                    var sortedList = GenericComparation<T>.SortedList(aux, Soda.CompareByName);
+                    var sortedList = GenericComparation<T>.SortedList(aux, Peli.CompareByName);
 
 
                     if (object.Equals(nodo_actual.father, default(T)))
@@ -153,7 +153,7 @@ namespace TreeBaste.Arbol
                     if (object.Equals(nodo_actual.Values[Nodo<T>.m - 2], default(T))) //Hay espacio en el nodo 
                     {
                         nodo_actual.Insert_Aux(value);
-                        var sortedList = GenericComparation<T>.SortedList(nodo_actual.Values, Soda.CompareByName);
+                        var sortedList = GenericComparation<T>.SortedList(nodo_actual.Values, Peli.CompareByName);
                         for (int x = 0; x < sortedList.Length; x++)
                         {
                             nodo_actual.Values[x] = sortedList[x]; //Inserto los valores ordenados por burbuja en el vector
@@ -172,7 +172,7 @@ namespace TreeBaste.Arbol
                             aux[x] = nodo_actual.Values[x];
                         }
                         aux[aux.Length - 1] = value;
-                        var sortedList = GenericComparation<T>.SortedList(aux, Soda.CompareByName);
+                        var sortedList = GenericComparation<T>.SortedList(aux, Peli.CompareByName);
 
                         if (object.Equals(nodo_actual.father, default(T)))
                         { //No existe padre
@@ -215,7 +215,7 @@ namespace TreeBaste.Arbol
                 }
                 else
                 {
-                    int pos = GenericComparation<T>.Position(nodo_actual.Values, Soda.CompareByName, value);
+                    int pos = GenericComparation<T>.Position(nodo_actual.Values, Peli.CompareByName, value);
                     Insert(nodo_actual.Children[pos], value, null);
 
                 }
