@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieII", "..\SerieII\Serie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieIII", "..\SerieIII\SerieIII.csproj", "{4BB6363C-9D6D-48B9-8E73-71996BE9C089}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeBaste", "TreeBaste\TreeBaste.csproj", "{93D1CE73-3236-43A7-89BC-615190CF4692}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4BB6363C-9D6D-48B9-8E73-71996BE9C089}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BB6363C-9D6D-48B9-8E73-71996BE9C089}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BB6363C-9D6D-48B9-8E73-71996BE9C089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D1CE73-3236-43A7-89BC-615190CF4692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D1CE73-3236-43A7-89BC-615190CF4692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D1CE73-3236-43A7-89BC-615190CF4692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D1CE73-3236-43A7-89BC-615190CF4692}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

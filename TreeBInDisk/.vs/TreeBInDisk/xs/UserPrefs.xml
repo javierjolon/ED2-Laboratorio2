@@ -1,11 +1,18 @@
 ﻿<Properties StartupConfiguration="{C6F87685-B077-4064-901A-D709F7D7B5CE}|Default">
   <MonoDevelop.Ide.ItemProperties.SerieII PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TreeBaste/Arbol/Arbol.cs">
+    <Files>
+      <File FileName="TreeBaste/Arbol/Arbol.cs" Line="92" Column="95" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TreeBInDisk" expanded="True" selected="True">
-            <Node name="TreeBInDisk" expanded="True" />
+          <Node name="TreeBInDisk" expanded="True">
+            <Node name="TreeBaste" expanded="True">
+              <Node name="Arbol" expanded="True">
+                <Node name="Arbol.cs" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>

@@ -1,0 +1,9 @@
+/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/bin/Debug/netstandard2.0/TreeBInDisk.deps.json
+/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/bin/Debug/netstandard2.0/TreeBInDisk.dll
+/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/bin/Debug/netstandard2.0/TreeBInDisk.pdb
+/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/obj/Debug/netstandard2.0/TreeBInDisk.csprojAssemblyReference.cache
+/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/obj/Debug/netstandard2.0/TreeBInDisk.AssemblyInfoInputs.cache
+/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/obj/Debug/netstandard2.0/TreeBInDisk.AssemblyInfo.cs
+/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/obj/Debug/netstandard2.0/TreeBInDisk.csproj.CoreCompileInputs.cache
+/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/obj/Debug/netstandard2.0/TreeBInDisk.dll
+/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/obj/Debug/netstandard2.0/TreeBInDisk.pdb
