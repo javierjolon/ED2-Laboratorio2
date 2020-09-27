@@ -4,8 +4,9 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Web;
-using .Models; //falta agregar y cambia Sucursar en orden
-using .Interfaces; //agrega el IfixedSide y todos los errores
+using TreeBInDisk.Interface;
+using TreeBInDisk.Models;
+
 
 namespace TreeBInDisk.Tree
 {
@@ -23,12 +24,6 @@ namespace TreeBInDisk.Tree
 
 			public Tree() { }
 
-			/// <summary>
-			/// To create a new file. Creates a Header and the Root node
-			/// </summary>
-			/// <param name="Order"></param>
-			/// <param name="Path"></param>
-			/// <param name="createFixedSizeText"></param>
 			public Tree(int Order, string Path, ICreateFixedSizeText<T> createFixedSizeText)
 			{
 				this.createFixedSizeText = createFixedSizeText;
@@ -45,14 +40,6 @@ namespace TreeBInDisk.Tree
 				}
 			}
 
-
-			/// <summary>
-			/// To read an existing file. Reads the Header
-			/// </summary>
-			/// <param name="Order"></param>
-			/// <param name="Path"></param>
-			/// <param name="createFixedSizeText"></param>
-			/// <param name="c"></param>
 			public Tree(int Order, string Path, ICreateFixedSizeText<T> createFixedSizeText, int c)
 			{
 				this.Order = Order;
@@ -62,7 +49,6 @@ namespace TreeBInDisk.Tree
 				var buffer = new byte[Header.FixedSize];
 				using (var fs = new FileStream(Path, FileMode.OpenOrCreate))
 				{
-					//fs.Seek(0, SeekOrigin.Begin);
 					fs.Read(buffer, 0, Header.FixedSize);
 				}
 

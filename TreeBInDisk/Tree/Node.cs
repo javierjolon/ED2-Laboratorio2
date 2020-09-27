@@ -3,13 +3,11 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Web;
-using  SerieIII.Interfaces; //falta integrarlo
+using TreeBInDisk.Interface; 
 
 
 namespace TreeBInDisk.Tree
 {
-    public class Node
-    {
 		public class Node<T> where T : IComparable, IFixedSizeText
 		{
 			internal List<T> Data { get; set; }
@@ -79,7 +77,7 @@ namespace TreeBInDisk.Tree
 				if (Father == Util.NullPointer)
 				{
 					int iData = (Data[0].FixedSize + 1) * ((4 * (Order - 1)) / 3); //Data
-					int iChildren = (Util.IntegerSize + 1) * ((4 * (Order - 1)) / 3) + (Util.IntegerSize + 1);    // Children
+					int iChildren = (Util.IntegerSize + 1) * ((4 * (Order - 1)) / 3) + (Util.IntegerSize + 1);    // hijo
 					InTextSize += iData;
 					InTextSize += iChildren;
 				}
@@ -507,4 +505,4 @@ namespace TreeBInDisk.Tree
 			}
 		}
 	}
-}
+

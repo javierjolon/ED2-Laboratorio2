@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YGnwGbBy9uHw3fvRRB82DnrzfMay10X+DUMm27WgLDpffC7PmHZ/XWaLUGzuDIrs6arc/ajPX2Rz4EOIpWZ1AA==",
+  "dgSpecHash": "TfTs9+HTWFN+aV0ezaFcilaAQ0hIpzO4MolrjF6olLVL+4mCHZBkIK9hi1hV8ai19rVq7pEAVyhTqWWj6h88rA==",
   "success": true,
-  "projectFilePath": "/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/TreeBInDisk.csproj",
-  "expectedPackageFiles": [
-    "/Users/mario/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/mario/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

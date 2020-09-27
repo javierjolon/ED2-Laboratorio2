@@ -1,9 +1,0 @@
-/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/TreeBaste/bin/Debug/netstandard2.1/TreeBaste.deps.json
-/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/TreeBaste/bin/Debug/netstandard2.1/TreeBaste.dll
-/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/TreeBaste/bin/Debug/netstandard2.1/TreeBaste.pdb
-/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/TreeBaste/obj/Debug/netstandard2.1/TreeBaste.csprojAssemblyReference.cache
-/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/TreeBaste/obj/Debug/netstandard2.1/TreeBaste.AssemblyInfoInputs.cache
-/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/TreeBaste/obj/Debug/netstandard2.1/TreeBaste.AssemblyInfo.cs
-/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/TreeBaste/obj/Debug/netstandard2.1/TreeBaste.csproj.CoreCompileInputs.cache
-/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/TreeBaste/obj/Debug/netstandard2.1/TreeBaste.dll
-/Users/mario/Documents/GitHub/U/ED2-Laboratorio2/TreeBInDisk/TreeBaste/obj/Debug/netstandard2.1/TreeBaste.pdb
