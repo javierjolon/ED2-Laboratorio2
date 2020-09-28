@@ -41,3 +41,10 @@ C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\obj\Debug
 C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.csproj.CoreCompileInputs.cache
 C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\denni\Downloads\URL\Estructura de Datos II\Laboratorio\Lab2\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.csprojAssemblyReference.cache
+C:\Users\denni\Downloads\URL\Estructura de Datos II\Laboratorio\Lab2\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.AssemblyInfoInputs.cache
+C:\Users\denni\Downloads\URL\Estructura de Datos II\Laboratorio\Lab2\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.AssemblyInfo.cs
+C:\Users\denni\Downloads\URL\Estructura de Datos II\Laboratorio\Lab2\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.csproj.CoreCompileInputs.cache
+C:\Users\denni\Downloads\URL\Estructura de Datos II\Laboratorio\Lab2\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\denni\Downloads\URL\Estructura de Datos II\Laboratorio\Lab2\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.dll
+C:\Users\denni\Downloads\URL\Estructura de Datos II\Laboratorio\Lab2\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.pdb

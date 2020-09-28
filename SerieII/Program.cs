@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using TreeBInDisk.Tree;
 
 namespace SerieII
@@ -31,8 +32,8 @@ namespace SerieII
             }
 
             //Creación del árbol
-            //MTree<int, int> Arbolito = new MTree<int, int>(iGrado);
-            Tree<int> Arbolito = new Tree<int>();
+            //************************************
+            //Tree<int> Arbolito = new Tree<int>();
 
             //Menú
             bool bMenuStay = true;
@@ -92,7 +93,8 @@ namespace SerieII
                                     }
                                 }
                                 //Se hace la inserción al árbol como tal
-                                Arbolito.Insert(iInsert, iInsert);
+                                //***********************************
+                                //Arbolito.Insert(iInsert, iInsert);
 
                                 //Se pregunta si desea ingresar otro valor
                                 ConsoleKey response;
@@ -117,7 +119,8 @@ namespace SerieII
                         {
                             Console.WriteLine("\nMostrando valores...\n++++++++++");
                             List<int> mostrar = new List<int>();
-                            Arbolito.InOrden(ref mostrar);
+                            //************************************
+                            //Arbolito.InOrden(ref mostrar);
                             foreach (var item in mostrar)
                             {
                                 Console.WriteLine(item);
@@ -150,7 +153,8 @@ namespace SerieII
                                     Console.WriteLine("**Ingrese un entero**");
                                 }
                             }
-                            Console.WriteLine(Arbolito.IsElementInTree(iBuscar));
+                            //*****************
+                            //Console.WriteLine(Arbolito.IsElementInTree(iBuscar));
                             Console.Write("\nPress key for Menu\n");
                             Console.ReadKey();
                             break;
