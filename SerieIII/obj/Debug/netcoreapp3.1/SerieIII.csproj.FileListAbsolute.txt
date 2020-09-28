@@ -17,3 +17,27 @@
 /Users/mario/Documents/GitHub/U/ED2-Laboratorio2/SerieIII/obj/Debug/netcoreapp3.1/SerieIII.dll
 /Users/mario/Documents/GitHub/U/ED2-Laboratorio2/SerieIII/obj/Debug/netcoreapp3.1/SerieIII.pdb
 /Users/mario/Documents/GitHub/U/ED2-Laboratorio2/SerieIII/obj/Debug/netcoreapp3.1/SerieIII.genruntimeconfig.cache
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\bin\Debug\netcoreapp3.1\SerieIII.exe
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\bin\Debug\netcoreapp3.1\SerieIII.deps.json
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\bin\Debug\netcoreapp3.1\SerieIII.runtimeconfig.json
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\bin\Debug\netcoreapp3.1\SerieIII.runtimeconfig.dev.json
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\bin\Debug\netcoreapp3.1\SerieIII.dll
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\bin\Debug\netcoreapp3.1\SerieIII.pdb
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.csprojAssemblyReference.cache
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.AssemblyInfoInputs.cache
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.AssemblyInfo.cs
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.RazorTargetAssemblyInfo.cache
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\staticwebassets\SerieIII.StaticWebAssets.Manifest.cache
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\staticwebassets\SerieIII.StaticWebAssets.xml
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.dll
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.pdb
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.genruntimeconfig.cache
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\bin\Debug\netcoreapp3.1\TreeBInDisk.dll
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\bin\Debug\netcoreapp3.1\TreeBInDisk.pdb
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.csproj.CopyComplete
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.csproj.CoreCompileInputs.cache
+C:\Users\javier\Documents\Visual Studio 2019\ED2-Laboratorio2\SerieIII\obj\Debug\netcoreapp3.1\SerieIII.MvcApplicationPartsAssemblyInfo.cache

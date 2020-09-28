@@ -10,7 +10,7 @@
       "NETCOREAPP",
       "NETCOREAPP3_1"
     ],
-    "languageVersion": "",
+    "languageVersion": "8.0",
     "platform": "",
     "allowUnsafe": false,
     "warningsAsErrors": false,
@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v3.1": {
       "SerieIII/1.0.0": {
         "dependencies": {
+          "TreeBInDisk": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -312,6 +313,14 @@
         },
         "compile": {
           "SerieIII.dll": {}
+        }
+      },
+      "TreeBInDisk/1.0.0": {
+        "runtime": {
+          "TreeBInDisk.dll": {}
+        },
+        "compile": {
+          "TreeBInDisk.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2010,6 +2019,11 @@
   },
   "libraries": {
     "SerieIII/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TreeBInDisk/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
