@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\denni\\Downloads\\URL\\Estructura de Datos II\\Laboratorio\\Lab2\\ED2-Laboratorio2\\SerieII\\SerieII.csproj": {}
+    "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\SerieII\\SerieII.csproj": {}
   },
   "projects": {
-    "C:\\Users\\denni\\Downloads\\URL\\Estructura de Datos II\\Laboratorio\\Lab2\\ED2-Laboratorio2\\SerieII\\SerieII.csproj": {
+    "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\SerieII\\SerieII.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denni\\Downloads\\URL\\Estructura de Datos II\\Laboratorio\\Lab2\\ED2-Laboratorio2\\SerieII\\SerieII.csproj",
+        "projectUniqueName": "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\SerieII\\SerieII.csproj",
         "projectName": "SerieII",
-        "projectPath": "C:\\Users\\denni\\Downloads\\URL\\Estructura de Datos II\\Laboratorio\\Lab2\\ED2-Laboratorio2\\SerieII\\SerieII.csproj",
-        "packagesPath": "C:\\Users\\denni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denni\\Downloads\\URL\\Estructura de Datos II\\Laboratorio\\Lab2\\ED2-Laboratorio2\\SerieII\\obj\\",
+        "projectPath": "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\SerieII\\SerieII.csproj",
+        "packagesPath": "C:\\Users\\majoj\\.nuget\\packages\\",
+        "outputPath": "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\SerieII\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\denni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\majoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\denni\\Downloads\\URL\\Estructura de Datos II\\Laboratorio\\Lab2\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj": {
-                "projectPath": "C:\\Users\\denni\\Downloads\\URL\\Estructura de Datos II\\Laboratorio\\Lab2\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj"
+              "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj": {
+                "projectPath": "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj"
               }
             }
           }
@@ -56,21 +59,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\denni\\Downloads\\URL\\Estructura de Datos II\\Laboratorio\\Lab2\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj": {
+    "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denni\\Downloads\\URL\\Estructura de Datos II\\Laboratorio\\Lab2\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj",
+        "projectUniqueName": "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj",
         "projectName": "TreeBInDisk",
-        "projectPath": "C:\\Users\\denni\\Downloads\\URL\\Estructura de Datos II\\Laboratorio\\Lab2\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj",
-        "packagesPath": "C:\\Users\\denni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denni\\Downloads\\URL\\Estructura de Datos II\\Laboratorio\\Lab2\\ED2-Laboratorio2\\TreeBInDisk\\obj\\",
+        "projectPath": "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj",
+        "packagesPath": "C:\\Users\\majoj\\.nuget\\packages\\",
+        "outputPath": "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\TreeBInDisk\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\denni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\majoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -108,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

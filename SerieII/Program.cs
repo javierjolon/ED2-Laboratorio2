@@ -33,7 +33,7 @@ namespace SerieII
 
             //Creación del árbol
             //************************************
-            //Tree<int> Arbolito = new Tree<int>();
+            Tree<Movie> Arbolito = new Tree<Movie>();
 
             //Menú
             bool bMenuStay = true;

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Cx0+wIqTEYejiGk6dyVtPpZzBkWvoclCttmYmKWuyYRsQU53knLNOUnQy3MlSFujKXg1hG2NTPCWZeRArdfJVw==",
+  "dgSpecHash": "U4OWYeSNs4WIrGXK1OcoI/I6ToiwrR5QJ5LlpT/YXBR7db8SlxTHdI2l7GoA6cxV6jV5z+qRI/wGr5gGRwOm0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\denni\\Downloads\\URL\\Estructura de Datos II\\Laboratorio\\Lab2\\ED2-Laboratorio2\\SerieIII\\SerieIII.csproj",
+  "projectFilePath": "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\SerieIII\\SerieIII.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\denni\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\majoj\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }
