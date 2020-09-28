@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeBInDisk", "TreeBInDisk.csproj", "{06E49D0B-CDF7-4CC7-A411-35B25F396FBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreeBInDisk", "TreeBInDisk.csproj", "{06E49D0B-CDF7-4CC7-A411-35B25F396FBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieII", "..\SerieII\SerieII.csproj", "{C6F87685-B077-4064-901A-D709F7D7B5CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerieII", "..\SerieII\SerieII.csproj", "{C6F87685-B077-4064-901A-D709F7D7B5CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieIII", "..\SerieIII\SerieIII.csproj", "{4BB6363C-9D6D-48B9-8E73-71996BE9C089}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeBaste", "TreeBaste\TreeBaste.csproj", "{93D1CE73-3236-43A7-89BC-615190CF4692}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerieIII", "..\SerieIII\SerieIII.csproj", "{4BB6363C-9D6D-48B9-8E73-71996BE9C089}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +27,6 @@ Global
 		{4BB6363C-9D6D-48B9-8E73-71996BE9C089}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BB6363C-9D6D-48B9-8E73-71996BE9C089}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BB6363C-9D6D-48B9-8E73-71996BE9C089}.Release|Any CPU.Build.0 = Release|Any CPU
-		{93D1CE73-3236-43A7-89BC-615190CF4692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{93D1CE73-3236-43A7-89BC-615190CF4692}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{93D1CE73-3236-43A7-89BC-615190CF4692}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{93D1CE73-3236-43A7-89BC-615190CF4692}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
