@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gqsS8PE+QPNtg7Z8hwvT53aIM6IfoudK05I90LrT4gz4iPlGNQWYjDIisx4EMy2BAHlS0GaFMyaDB8DW7ZBF1A==",
+  "dgSpecHash": "TfTs9+HTWFN+aV0ezaFcilaAQ0hIpzO4MolrjF6olLVL+4mCHZBkIK9hi1hV8ai19rVq7pEAVyhTqWWj6h88rA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\javier\\Documents\\Visual Studio 2019\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj",
-  "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

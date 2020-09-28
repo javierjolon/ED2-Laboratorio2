@@ -1,36 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\javier\\Documents\\Visual Studio 2019\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj": {}
+    "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj": {}
   },
   "projects": {
-    "C:\\Users\\javier\\Documents\\Visual Studio 2019\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj": {
+    "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\javier\\Documents\\Visual Studio 2019\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj",
+        "projectUniqueName": "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj",
         "projectName": "TreeBInDisk",
-        "projectPath": "C:\\Users\\javier\\Documents\\Visual Studio 2019\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj",
-        "packagesPath": "C:\\Users\\javier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\javier\\Documents\\Visual Studio 2019\\ED2-Laboratorio2\\TreeBInDisk\\obj\\",
+        "projectPath": "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj",
+        "packagesPath": "C:\\Users\\majoj\\.nuget\\packages\\",
+        "outputPath": "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\TreeBInDisk\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\javier\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\majoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netstandard2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
+          "netstandard2.1": {
             "projectReferences": {}
           }
         },
@@ -41,15 +39,7 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "dependencies": {
-            "NETStandard.Library": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
-            }
-          },
+        "netstandard2.1": {
           "imports": [
             "net461",
             "net462",
@@ -60,7 +50,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

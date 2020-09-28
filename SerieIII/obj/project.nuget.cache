@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7uayb9zFnldW9e69I8fIhvZ4Z0M3Bbes8AZ5F3QSvelek9hP8E0+rvinwHeHpKU1LiwUr7khRUsjlaMr1zpGEg==",
+  "dgSpecHash": "U4OWYeSNs4WIrGXK1OcoI/I6ToiwrR5QJ5LlpT/YXBR7db8SlxTHdI2l7GoA6cxV6jV5z+qRI/wGr5gGRwOm0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\javier\\Documents\\Visual Studio 2019\\ED2-Laboratorio2\\SerieIII\\SerieIII.csproj",
+  "projectFilePath": "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\SerieIII\\SerieIII.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\javier\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\majoj\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }
