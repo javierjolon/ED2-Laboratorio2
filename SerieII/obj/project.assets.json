@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "TreeBInDisk/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/TreeBInDisk.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TreeBInDisk.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TreeBInDisk/1.0.0": {
+      "type": "project",
+      "path": "../TreeBInDisk/TreeBInDisk.csproj",
+      "msbuildProject": "../TreeBInDisk/TreeBInDisk.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "TreeBInDisk >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\majoj\\.nuget\\packages\\": {},
@@ -36,7 +55,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj": {
+              "projectPath": "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab02_TreeBDisk\\ED2-Laboratorio2\\TreeBInDisk\\TreeBInDisk.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
