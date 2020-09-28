@@ -1,8 +1,18 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard2.1</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\Producto.cs" />
+    <Compile Remove="Models\Sucursal-Producto.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <AdditionalFiles Include="Models\Producto.cs" />
+    <AdditionalFiles Include="Models\Sucursal-Producto.cs" />
+  </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Tree\" />
